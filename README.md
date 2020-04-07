@@ -42,7 +42,7 @@ Note：Reprinted in https://github.com/yanshengjia/ml-road
 | Pattern Recogniton and Machine Learning | Christopher Bishop                              | Machine Learning           |
 | Probabilistic Graphical Models: Principles and Techniques | Daphne Koller, Nir Friedman                              | Probabilistic Graphical Model |
 | Speech and Language Processing                               | [Dan Jurafsky](http://web.stanford.edu/people/jurafsky/), [James H. Martin](http://www.cs.colorado.edu/~martin/) | NLP                                   |
-| The Elements of Statistical Learning                         | Trevor Hastie, Robert Tibshirani, Jerome Friedman[The Elements of Statistical Learning (2nd Edition).pdf](https://github.com/AngelNI/BOOK/blob/master/ML/The Elements of Statistical Learning (2nd Edition).pdf) | Machine Learning |
+| The Elements of Statistical Learning                         | Trevor Hastie, Robert Tibshirani, Jerome Friedman | Machine Learning |
 
 ## Python
 
